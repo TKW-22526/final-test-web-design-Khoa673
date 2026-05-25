@@ -180,5 +180,5 @@ Mã số sinh viên:110124096
 Lớp:DA24TTA
 Tên đề tài:XÂY DỰNG WEBSITE CỬA HÀNG HOA TƯƠI
 Liên kết GitHub repository:https://github.com/TKW-22526/final-test-web-design-Khoa673.git
-Liên kết GitHub Pages:
+Liên kết GitHub Pages: https://khoa673.github.io/lap-trinh-wed/
 ```
